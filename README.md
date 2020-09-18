@@ -6,4 +6,4 @@ this is a README for a blank repo.
 * here is another.
 
 # note
-1. there really is nothing in this repo.
+1. wow! there really is nothing in this repo.
